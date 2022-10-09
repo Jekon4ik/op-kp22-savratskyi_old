@@ -1,4 +1,5 @@
-﻿using System;
+﻿//За координатами двох точок( x1; y1) (x2; y2) знайти модуль вектора(його довжину)
+using System;
 class Task1
 {
     static void Main(string[] arg)
