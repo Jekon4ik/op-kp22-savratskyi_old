@@ -1,4 +1,9 @@
-﻿Console.Write("Перша сторона трикутника: ");
+using System;
+class Task1
+{
+    static void Main(string[] arg)
+    {
+Console.Write("Перша сторона трикутника: ");
 double a = Convert.ToDouble(Console.ReadLine());
 Console.Write("Друга сторона трикутника: ");
 double b = Convert.ToDouble(Console.ReadLine());
@@ -8,3 +13,5 @@ double p = (a + b + c) / 2;
 Console.WriteLine("Площа трикутника: " + Math.Sqrt(p * (p - a) * (p - b) * (p - c)));
 
 Console.ReadKey();
+    }
+}
