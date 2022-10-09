@@ -1,6 +1,6 @@
-// Знайти площу трикутника за формулою Герона
+// Знайти площу трикутника за формулою Герона.
 using System;
-class Task1
+class Task2
 {
     static void Main(string[] arg)
     {
