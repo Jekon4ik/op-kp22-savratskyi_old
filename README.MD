@@ -40,5 +40,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Resources
 
 - [Official Website](https://teams.microsoft.com)
-- [Documentation](https://docs.microsoft.com/teams)
+- [Documentation](https://learn.microsoft.com/en-us/microsoftteams/teams-overview).
 - [Support](https://support.microsoft.com/teams)
