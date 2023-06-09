@@ -1,7 +1,8 @@
 
 # Microsoft Teams
 
-![image](https://github.com/Jekon4ik/testRepo/assets/33554364/1a60b1fc-7d3d-4b62-9c52-c841521d542e)
+![241595218-1a60b1fc-7d3d-4b62-9c52-c841521d542e](https://github.com/Jekon4ik/op-kp22-savratskyi_old/assets/33554364/f33db593-3c25-499e-bfca-ba76426a7962)
+
 
 
 
