@@ -27,7 +27,7 @@ To get started with Microsoft Teams, follow these steps:
 4. Schedule meetings and invite participants to join using the calendar feature.
 5. Customize your Teams experience by configuring notifications, themes, and app integrations.
 
-For more detailed instructions and support, refer to the official [Microsoft Teams documentation]([[https://docs.microsoft.com/teams](https://learn.microsoft.com/en-us/microsoftteams/teams-overview)].
+For more detailed instructions and support, refer to the official [Microsoft Teams documentation](https://learn.microsoft.com/en-us/microsoftteams/teams-overview).
 
 ## Contributing
 
